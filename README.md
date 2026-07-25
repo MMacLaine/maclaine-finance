@@ -86,7 +86,7 @@ MacLaine Finance is a free suite of 30+ personal-finance calculators for Sweden.
 
 - **[Wiki](https://maclaine.se/en/finance/wiki)**: 78 plain-language reference articles on Swedish finance terms (ISK, uppskov, gränsbelopp, riktålder, ...)
 - **[Guides](https://maclaine.se/en/finance/guides)**: 32 long-form guides that walk whole decisions (buy vs rent, ISK vs pension saving, moving to Sweden, ...)
-- **[Changelog](https://maclaine.se/en/finance/changelog)**: 65+ releases since October 2025
+- **[Changelog](https://maclaine.se/en/finance/changelog)**: 65+ releases since June 2026
 
 ## How it works
 
