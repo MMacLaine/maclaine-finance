@@ -1,0 +1,110 @@
+{
+  "_meta": {
+    "title": "Swedish national finance constants 2026",
+    "taxYear": 2026,
+    "source": "https://www.skatteverket.se/privat/skatter/beloppochprocent",
+    "retrieved": "2026-07-25",
+    "licence": "CC0-1.0",
+    "publisher": "MacLaine Finance, https://maclaine.se/en/finance",
+    "disclaimer": "Reference data, not tax advice. Verify against Skatteverket before relying on it.",
+    "note": "Headline published figures only. Bracket structures and the rules governing how these interact are not included; see the calculators at https://maclaine.se/en/finance for worked results.",
+    "sources": [
+      "https://www.skatteverket.se/privat/skatter/beloppochprocent",
+      "https://www.riksbank.se",
+      "https://www.riksgalden.se"
+    ]
+  },
+  "constants": {
+    "prisbasbelopp": {
+      "value": 59200,
+      "unit": "SEK",
+      "note": "Price base amount (prisbasbelopp), the index behind grundavdrag, benefit ceilings and many thresholds."
+    },
+    "inkomstbasbelopp": {
+      "value": 83400,
+      "unit": "SEK",
+      "note": "Income base amount (inkomstbasbelopp), the index behind pension ceilings and the public service fee cap."
+    },
+    "arbetsgivaravgift": {
+      "value": 0.3142,
+      "unit": "fraction",
+      "note": "Standard employer social fee on gross pay. Paid by the employer on top of salary, so total employer cost is salary x 1.3142."
+    },
+    "alderspensionsavgift": {
+      "value": 0.1021,
+      "unit": "fraction",
+      "note": "Reduced employer fee (pension component only) for older workers. The age gate itself is not published here."
+    },
+    "statligInkomstskatt": {
+      "rate": 0.2,
+      "threshold": 643000,
+      "unit": "fraction / SEK",
+      "note": "State income tax: 20% on taxable earned income above the skiktgrans, on top of municipal tax."
+    },
+    "allmanPensionsavgift": {
+      "value": 0.07,
+      "unit": "fraction",
+      "note": "General pension contribution withheld from the employee, fully offset by a tax reduction for most earners."
+    },
+    "isk": {
+      "schablonRate": 0.0355,
+      "taxRate": 0.3,
+      "effectiveDrag": 0.01065,
+      "freeAmount": 300000,
+      "unit": "fraction / SEK",
+      "note": "Investeringssparkonto is taxed on a notional yield (schablon), not on realised gains. Effective drag is schablonRate x taxRate. The first 300 000 kr of capital base is exempt from 2026."
+    },
+    "kapitalvinstskatt": {
+      "value": 0.3,
+      "unit": "fraction",
+      "note": "Flat tax on realised capital gains in a taxable account (depa)."
+    },
+    "schablonmetoden": {
+      "value": 0.2,
+      "unit": "fraction",
+      "note": "Standard-method cost basis: 20% of sale proceeds for listed shares and funds, usable when the real purchase price is unknown or lower."
+    },
+    "publicServiceAvgift": {
+      "rate": 0.01,
+      "cap": 1184,
+      "unit": "fraction / SEK per year",
+      "note": "Public service fee (radio and TV). 1% of taxable earned income, capped. The cap is per person, not per income source."
+    },
+    "rotRut": {
+      "rotRate": 0.3,
+      "rutRate": 0.5,
+      "rotCapPerPerson": 50000,
+      "combinedCapPerPerson": 75000,
+      "unit": "fraction / SEK per year",
+      "note": "Tax reductions on the labour cost of renovation (ROT) and household services (RUT). The temporary 50% ROT boost expired 2026-01-01. ROT has its own sub-cap inside the combined ceiling."
+    },
+    "bolan": {
+      "maxLtv": 0.9,
+      "amortisationAbove70Ltv": 0.02,
+      "amortisationAbove50Ltv": 0.01,
+      "lagfartRate": 0.015,
+      "pantbrevRate": 0.02,
+      "ranteavdragBelowThreshold": 0.3,
+      "ranteavdragAboveThreshold": 0.21,
+      "ranteavdragThreshold": 100000,
+      "unit": "fraction / SEK",
+      "note": "Mortgage rules. The debt-to-income amortisation surcharge (skarpta amorteringskravet) was abolished 2026-04-01. Interest deduction drops from 30% to 21% on interest above the threshold."
+    },
+    "fastighetsavgiftCap": {
+      "value": 10425,
+      "unit": "SEK per year",
+      "note": "Municipal property fee ceiling for a house (smahus)."
+    },
+    "insattningsgaranti": {
+      "value": 1150000,
+      "unit": "SEK",
+      "note": "Deposit guarantee per person per bank (Riksgalden)."
+    },
+    "styrranta": {
+      "value": 1.75,
+      "asOf": "2026-06-05",
+      "unit": "percent",
+      "note": "Riksbanken policy rate. Point-in-time value, unlike the rest of this file; check the Riksbank for the current rate."
+    }
+  }
+}

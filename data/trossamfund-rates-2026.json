@@ -1,0 +1,135 @@
+{
+  "_meta": {
+    "title": "Swedish registered religious community fees (trossamfundsavgift) 2026",
+    "taxYear": 2026,
+    "source": "https://www.skatteverket.se/privat/skatter/beloppochprocent",
+    "retrieved": "2026-07-25",
+    "licence": "CC0-1.0",
+    "publisher": "MacLaine Finance, https://maclaine.se/en/finance",
+    "disclaimer": "Reference data, not tax advice. Verify against Skatteverket before relying on it.",
+    "note": "Voluntary, payable only by members, collected by Skatteverket on the same taxable earned income as municipal tax. Does not affect jobbskatteavdrag. Church of Sweden members pay a rate that varies slightly by parish; 1.0% is the common approximation.",
+    "count": 20
+  },
+  "communities": [
+    {
+      "key": "svenska_kyrkan",
+      "nameSv": "Svenska kyrkan",
+      "nameEn": "Church of Sweden",
+      "rate": 0.01
+    },
+    {
+      "key": "bosniakiska_islamiska",
+      "nameSv": "Bosniakiska islamiska samfundet",
+      "nameEn": "Bosnian Islamic Community",
+      "rate": 0.007
+    },
+    {
+      "key": "equmeniakyrkan",
+      "nameSv": "Equmeniakyrkan",
+      "nameEn": "Uniting Church in Sweden",
+      "rate": 0.01
+    },
+    {
+      "key": "evangeliska_frikyrkan",
+      "nameSv": "Evangeliska frikyrkan",
+      "nameEn": "Evangelical Free Church",
+      "rate": 0.01
+    },
+    {
+      "key": "forenade_islamiska",
+      "nameSv": "Förenade islamiska föreningar",
+      "nameEn": "United Islamic Communities",
+      "rate": 0.007
+    },
+    {
+      "key": "fralsningsarmen",
+      "nameSv": "Frälsningsarmén",
+      "nameEn": "The Salvation Army",
+      "rate": 0.01
+    },
+    {
+      "key": "imam_malek",
+      "nameSv": "Imam Malek trossamfund",
+      "nameEn": "Imam Malek Community",
+      "rate": 0.007
+    },
+    {
+      "key": "islamiska_fatwabyran",
+      "nameSv": "Islamiska fatwabyråan",
+      "nameEn": "Islamic Fatwa Council",
+      "rate": 0.007
+    },
+    {
+      "key": "islamiska_kulturcenter",
+      "nameSv": "Islamiska kulturcenterunionen",
+      "nameEn": "Islamic Cultural Centre Union",
+      "rate": 0.01
+    },
+    {
+      "key": "makedonska_ortodoxa",
+      "nameSv": "Makedonska ortodoxa kyrkan",
+      "nameEn": "Macedonian Orthodox Church",
+      "rate": 0.01
+    },
+    {
+      "key": "pingst",
+      "nameSv": "Pingst – fria församlingar",
+      "nameEn": "Pentecostal Movement",
+      "rate": 0.01
+    },
+    {
+      "key": "romersk_katolska",
+      "nameSv": "Romersk-katolska kyrkan",
+      "nameEn": "Roman Catholic Church",
+      "rate": 0.01
+    },
+    {
+      "key": "rumaniska_ortodoxa",
+      "nameSv": "Rumänska ortodoxa kyrkan",
+      "nameEn": "Romanian Orthodox Church",
+      "rate": 0.0075
+    },
+    {
+      "key": "svenska_alliansmissionen",
+      "nameSv": "Svenska alliansmissionen",
+      "nameEn": "Swedish Alliance Mission",
+      "rate": 0.01
+    },
+    {
+      "key": "svenska_islamiska",
+      "nameSv": "Svenska islamiska samfundet",
+      "nameEn": "Swedish Islamic Community",
+      "rate": 0.007
+    },
+    {
+      "key": "sveriges_buddhistiska",
+      "nameSv": "Sveriges buddhistiska gemenskap",
+      "nameEn": "Buddhist Society of Sweden",
+      "rate": 0.007
+    },
+    {
+      "key": "sveriges_muslimska",
+      "nameSv": "Sveriges muslimska förbund",
+      "nameEn": "Muslim Federation of Sweden",
+      "rate": 0.005
+    },
+    {
+      "key": "syrisk_ortodoxa_arke",
+      "nameSv": "Syrisk ortodoxa ärkestiftet",
+      "nameEn": "Syriac Orthodox Archdiocese",
+      "rate": 0.01
+    },
+    {
+      "key": "syrisk_ortodoxa_patr",
+      "nameSv": "Syrisk-ortodoxa patriarkatet",
+      "nameEn": "Syriac Orthodox Patriarchate",
+      "rate": 0.01
+    },
+    {
+      "key": "osterns_assyriska",
+      "nameSv": "Österns assyriska kyrka",
+      "nameEn": "Assyrian Church of the East",
+      "rate": 0.01
+    }
+  ]
+}

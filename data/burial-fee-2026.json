@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "title": "Swedish burial fee (begravningsavgift) 2026",
+    "taxYear": 2026,
+    "source": "https://www.skatteverket.se/privat/skatter/beloppochprocent",
+    "retrieved": "2026-07-25",
+    "licence": "CC0-1.0",
+    "publisher": "MacLaine Finance, https://maclaine.se/en/finance",
+    "disclaimer": "Reference data, not tax advice. Verify against Skatteverket before relying on it.",
+    "note": "Mandatory for everyone registered in Sweden regardless of religious affiliation, levied on the same taxable earned income as municipal tax. Stockholm and Tranas run their own burial authorities and set their own rate; every other municipality uses the national rate."
+  },
+  "nationalRate": 0.00292,
+  "exceptions": [
+    {
+      "municipality": "Stockholm",
+      "rate": 0.0007
+    },
+    {
+      "municipality": "Tranås",
+      "rate": 0.00285
+    }
+  ]
+}

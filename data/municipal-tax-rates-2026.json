@@ -1,0 +1,1465 @@
+{
+  "_meta": {
+    "title": "Swedish municipal income tax rates 2026",
+    "taxYear": 2026,
+    "source": "https://www.skatteverket.se/privat/skatter/beloppochprocent",
+    "retrieved": "2026-07-25",
+    "licence": "CC0-1.0",
+    "publisher": "MacLaine Finance, https://maclaine.se/en/finance",
+    "disclaimer": "Reference data, not tax advice. Verify against Skatteverket before relying on it.",
+    "note": "Rate is the combined kommunalskatt + regionskatt levied on taxable earned income. It excludes begravningsavgift and any trossamfundsavgift, which are separate fees on the same base (see the companion files) and do not affect jobbskatteavdrag.",
+    "count": 290
+  },
+  "municipalities": [
+    {
+      "municipality": "Ale",
+      "rate": 0.328,
+      "ratePercent": 32.8
+    },
+    {
+      "municipality": "Alingsås",
+      "rate": 0.3284,
+      "ratePercent": 32.84
+    },
+    {
+      "municipality": "Alvesta",
+      "rate": 0.3342,
+      "ratePercent": 33.42
+    },
+    {
+      "municipality": "Aneby",
+      "rate": 0.3385,
+      "ratePercent": 33.85
+    },
+    {
+      "municipality": "Arboga",
+      "rate": 0.3329,
+      "ratePercent": 33.29
+    },
+    {
+      "municipality": "Arjeplog",
+      "rate": 0.3484,
+      "ratePercent": 34.84
+    },
+    {
+      "municipality": "Arvidsjaur",
+      "rate": 0.3414,
+      "ratePercent": 34.14
+    },
+    {
+      "municipality": "Arvika",
+      "rate": 0.3403,
+      "ratePercent": 34.03
+    },
+    {
+      "municipality": "Askersund",
+      "rate": 0.3415,
+      "ratePercent": 34.15
+    },
+    {
+      "municipality": "Avesta",
+      "rate": 0.3395,
+      "ratePercent": 33.95
+    },
+    {
+      "municipality": "Bengtsfors",
+      "rate": 0.344,
+      "ratePercent": 34.4
+    },
+    {
+      "municipality": "Berg",
+      "rate": 0.3422,
+      "ratePercent": 34.22
+    },
+    {
+      "municipality": "Bjurholm",
+      "rate": 0.35,
+      "ratePercent": 35
+    },
+    {
+      "municipality": "Bjuv",
+      "rate": 0.3217,
+      "ratePercent": 32.17
+    },
+    {
+      "municipality": "Boden",
+      "rate": 0.3394,
+      "ratePercent": 33.94
+    },
+    {
+      "municipality": "Bollebygd",
+      "rate": 0.3307,
+      "ratePercent": 33.07
+    },
+    {
+      "municipality": "Bollnäs",
+      "rate": 0.3337,
+      "ratePercent": 33.37
+    },
+    {
+      "municipality": "Borgholm",
+      "rate": 0.3344,
+      "ratePercent": 33.44
+    },
+    {
+      "municipality": "Borlänge",
+      "rate": 0.344,
+      "ratePercent": 34.4
+    },
+    {
+      "municipality": "Borås",
+      "rate": 0.3279,
+      "ratePercent": 32.79
+    },
+    {
+      "municipality": "Botkyrka",
+      "rate": 0.3223,
+      "ratePercent": 32.23
+    },
+    {
+      "municipality": "Boxholm",
+      "rate": 0.3337,
+      "ratePercent": 33.37
+    },
+    {
+      "municipality": "Bromölla",
+      "rate": 0.3374,
+      "ratePercent": 33.74
+    },
+    {
+      "municipality": "Bräcke",
+      "rate": 0.3509,
+      "ratePercent": 35.09
+    },
+    {
+      "municipality": "Burlöv",
+      "rate": 0.3127,
+      "ratePercent": 31.27
+    },
+    {
+      "municipality": "Båstad",
+      "rate": 0.3141,
+      "ratePercent": 31.41
+    },
+    {
+      "municipality": "Dals-Ed",
+      "rate": 0.3469,
+      "ratePercent": 34.69
+    },
+    {
+      "municipality": "Danderyd",
+      "rate": 0.3058,
+      "ratePercent": 30.58
+    },
+    {
+      "municipality": "Degerfors",
+      "rate": 0.353,
+      "ratePercent": 35.3
+    },
+    {
+      "municipality": "Dorotea",
+      "rate": 0.3565,
+      "ratePercent": 35.65
+    },
+    {
+      "municipality": "Eda",
+      "rate": 0.3455,
+      "ratePercent": 34.55
+    },
+    {
+      "municipality": "Ekerö",
+      "rate": 0.3145,
+      "ratePercent": 31.45
+    },
+    {
+      "municipality": "Eksjö",
+      "rate": 0.3402,
+      "ratePercent": 34.02
+    },
+    {
+      "municipality": "Emmaboda",
+      "rate": 0.3382,
+      "ratePercent": 33.82
+    },
+    {
+      "municipality": "Enköping",
+      "rate": 0.3305,
+      "ratePercent": 33.05
+    },
+    {
+      "municipality": "Eskilstuna",
+      "rate": 0.3285,
+      "ratePercent": 32.85
+    },
+    {
+      "municipality": "Eslöv",
+      "rate": 0.3172,
+      "ratePercent": 31.72
+    },
+    {
+      "municipality": "Essunga",
+      "rate": 0.3305,
+      "ratePercent": 33.05
+    },
+    {
+      "municipality": "Fagersta",
+      "rate": 0.3299,
+      "ratePercent": 32.99
+    },
+    {
+      "municipality": "Falkenberg",
+      "rate": 0.325,
+      "ratePercent": 32.5
+    },
+    {
+      "municipality": "Falköping",
+      "rate": 0.3343,
+      "ratePercent": 33.43
+    },
+    {
+      "municipality": "Falun",
+      "rate": 0.3405,
+      "ratePercent": 34.05
+    },
+    {
+      "municipality": "Filipstad",
+      "rate": 0.3455,
+      "ratePercent": 34.55
+    },
+    {
+      "municipality": "Finspång",
+      "rate": 0.337,
+      "ratePercent": 33.7
+    },
+    {
+      "municipality": "Flen",
+      "rate": 0.331,
+      "ratePercent": 33.1
+    },
+    {
+      "municipality": "Forshaga",
+      "rate": 0.3463,
+      "ratePercent": 34.63
+    },
+    {
+      "municipality": "Färgelanda",
+      "rate": 0.3439,
+      "ratePercent": 34.39
+    },
+    {
+      "municipality": "Gagnef",
+      "rate": 0.3427,
+      "ratePercent": 34.27
+    },
+    {
+      "municipality": "Gislaved",
+      "rate": 0.3375,
+      "ratePercent": 33.75
+    },
+    {
+      "municipality": "Gnesta",
+      "rate": 0.3295,
+      "ratePercent": 32.95
+    },
+    {
+      "municipality": "Gnosjö",
+      "rate": 0.34,
+      "ratePercent": 34
+    },
+    {
+      "municipality": "Gotland",
+      "rate": 0.336,
+      "ratePercent": 33.6
+    },
+    {
+      "municipality": "Grums",
+      "rate": 0.3478,
+      "ratePercent": 34.78
+    },
+    {
+      "municipality": "Grästorp",
+      "rate": 0.3347,
+      "ratePercent": 33.47
+    },
+    {
+      "municipality": "Gullspång",
+      "rate": 0.3397,
+      "ratePercent": 33.97
+    },
+    {
+      "municipality": "Gällivare",
+      "rate": 0.3389,
+      "ratePercent": 33.89
+    },
+    {
+      "municipality": "Gävle",
+      "rate": 0.3377,
+      "ratePercent": 33.77
+    },
+    {
+      "municipality": "Göteborg",
+      "rate": 0.326,
+      "ratePercent": 32.6
+    },
+    {
+      "municipality": "Götene",
+      "rate": 0.336,
+      "ratePercent": 33.6
+    },
+    {
+      "municipality": "Habo",
+      "rate": 0.3393,
+      "ratePercent": 33.93
+    },
+    {
+      "municipality": "Hagfors",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Hallsberg",
+      "rate": 0.3385,
+      "ratePercent": 33.85
+    },
+    {
+      "municipality": "Hallstahammar",
+      "rate": 0.3269,
+      "ratePercent": 32.69
+    },
+    {
+      "municipality": "Halmstad",
+      "rate": 0.3238,
+      "ratePercent": 32.38
+    },
+    {
+      "municipality": "Hammarö",
+      "rate": 0.3505,
+      "ratePercent": 35.05
+    },
+    {
+      "municipality": "Haninge",
+      "rate": 0.3128,
+      "ratePercent": 31.28
+    },
+    {
+      "municipality": "Haparanda",
+      "rate": 0.3384,
+      "ratePercent": 33.84
+    },
+    {
+      "municipality": "Heby",
+      "rate": 0.3421,
+      "ratePercent": 34.21
+    },
+    {
+      "municipality": "Hedemora",
+      "rate": 0.3415,
+      "ratePercent": 34.15
+    },
+    {
+      "municipality": "Helsingborg",
+      "rate": 0.3139,
+      "ratePercent": 31.39
+    },
+    {
+      "municipality": "Herrljunga",
+      "rate": 0.3362,
+      "ratePercent": 33.62
+    },
+    {
+      "municipality": "Hjo",
+      "rate": 0.3348,
+      "ratePercent": 33.48
+    },
+    {
+      "municipality": "Hofors",
+      "rate": 0.3437,
+      "ratePercent": 34.37
+    },
+    {
+      "municipality": "Huddinge",
+      "rate": 0.3171,
+      "ratePercent": 31.71
+    },
+    {
+      "municipality": "Hudiksvall",
+      "rate": 0.3312,
+      "ratePercent": 33.12
+    },
+    {
+      "municipality": "Hultsfred",
+      "rate": 0.3377,
+      "ratePercent": 33.77
+    },
+    {
+      "municipality": "Hylte",
+      "rate": 0.3385,
+      "ratePercent": 33.85
+    },
+    {
+      "municipality": "Håbo",
+      "rate": 0.333,
+      "ratePercent": 33.3
+    },
+    {
+      "municipality": "Hällefors",
+      "rate": 0.3435,
+      "ratePercent": 34.35
+    },
+    {
+      "municipality": "Härjedalen",
+      "rate": 0.3417,
+      "ratePercent": 34.17
+    },
+    {
+      "municipality": "Härnösand",
+      "rate": 0.3463,
+      "ratePercent": 34.63
+    },
+    {
+      "municipality": "Härryda",
+      "rate": 0.3198,
+      "ratePercent": 31.98
+    },
+    {
+      "municipality": "Hässleholm",
+      "rate": 0.3238,
+      "ratePercent": 32.38
+    },
+    {
+      "municipality": "Höganäs",
+      "rate": 0.3091,
+      "ratePercent": 30.91
+    },
+    {
+      "municipality": "Högsby",
+      "rate": 0.3407,
+      "ratePercent": 34.07
+    },
+    {
+      "municipality": "Hörby",
+      "rate": 0.3226,
+      "ratePercent": 32.26
+    },
+    {
+      "municipality": "Höör",
+      "rate": 0.3263,
+      "ratePercent": 32.63
+    },
+    {
+      "municipality": "Jokkmokk",
+      "rate": 0.3429,
+      "ratePercent": 34.29
+    },
+    {
+      "municipality": "Järfälla",
+      "rate": 0.3152,
+      "ratePercent": 31.52
+    },
+    {
+      "municipality": "Jönköping",
+      "rate": 0.334,
+      "ratePercent": 33.4
+    },
+    {
+      "municipality": "Kalix",
+      "rate": 0.3389,
+      "ratePercent": 33.89
+    },
+    {
+      "municipality": "Kalmar",
+      "rate": 0.3367,
+      "ratePercent": 33.67
+    },
+    {
+      "municipality": "Karlsborg",
+      "rate": 0.328,
+      "ratePercent": 32.8
+    },
+    {
+      "municipality": "Karlshamn",
+      "rate": 0.338,
+      "ratePercent": 33.8
+    },
+    {
+      "municipality": "Karlskoga",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Karlskrona",
+      "rate": 0.3369,
+      "ratePercent": 33.69
+    },
+    {
+      "municipality": "Karlstad",
+      "rate": 0.3355,
+      "ratePercent": 33.55
+    },
+    {
+      "municipality": "Katrineholm",
+      "rate": 0.3295,
+      "ratePercent": 32.95
+    },
+    {
+      "municipality": "Kil",
+      "rate": 0.3463,
+      "ratePercent": 34.63
+    },
+    {
+      "municipality": "Kinda",
+      "rate": 0.33,
+      "ratePercent": 33
+    },
+    {
+      "municipality": "Kiruna",
+      "rate": 0.3439,
+      "ratePercent": 34.39
+    },
+    {
+      "municipality": "Klippan",
+      "rate": 0.3193,
+      "ratePercent": 31.93
+    },
+    {
+      "municipality": "Knivsta",
+      "rate": 0.3262,
+      "ratePercent": 32.62
+    },
+    {
+      "municipality": "Kramfors",
+      "rate": 0.3443,
+      "ratePercent": 34.43
+    },
+    {
+      "municipality": "Kristianstad",
+      "rate": 0.3264,
+      "ratePercent": 32.64
+    },
+    {
+      "municipality": "Kristinehamn",
+      "rate": 0.3425,
+      "ratePercent": 34.25
+    },
+    {
+      "municipality": "Krokom",
+      "rate": 0.3387,
+      "ratePercent": 33.87
+    },
+    {
+      "municipality": "Kumla",
+      "rate": 0.3384,
+      "ratePercent": 33.84
+    },
+    {
+      "municipality": "Kungsbacka",
+      "rate": 0.3258,
+      "ratePercent": 32.58
+    },
+    {
+      "municipality": "Kungsör",
+      "rate": 0.3291,
+      "ratePercent": 32.91
+    },
+    {
+      "municipality": "Kungälv",
+      "rate": 0.3292,
+      "ratePercent": 32.92
+    },
+    {
+      "municipality": "Kävlinge",
+      "rate": 0.2959,
+      "ratePercent": 29.59
+    },
+    {
+      "municipality": "Köping",
+      "rate": 0.3304,
+      "ratePercent": 33.04
+    },
+    {
+      "municipality": "Laholm",
+      "rate": 0.328,
+      "ratePercent": 32.8
+    },
+    {
+      "municipality": "Landskrona",
+      "rate": 0.3142,
+      "ratePercent": 31.42
+    },
+    {
+      "municipality": "Laxå",
+      "rate": 0.35,
+      "ratePercent": 35
+    },
+    {
+      "municipality": "Lekeberg",
+      "rate": 0.3373,
+      "ratePercent": 33.73
+    },
+    {
+      "municipality": "Leksand",
+      "rate": 0.338,
+      "ratePercent": 33.8
+    },
+    {
+      "municipality": "Lerum",
+      "rate": 0.3203,
+      "ratePercent": 32.03
+    },
+    {
+      "municipality": "Lessebo",
+      "rate": 0.3381,
+      "ratePercent": 33.81
+    },
+    {
+      "municipality": "Lidingö",
+      "rate": 0.2967,
+      "ratePercent": 29.67
+    },
+    {
+      "municipality": "Lidköping",
+      "rate": 0.3274,
+      "ratePercent": 32.74
+    },
+    {
+      "municipality": "Lilla Edet",
+      "rate": 0.3385,
+      "ratePercent": 33.85
+    },
+    {
+      "municipality": "Lindesberg",
+      "rate": 0.346,
+      "ratePercent": 34.6
+    },
+    {
+      "municipality": "Linköping",
+      "rate": 0.3175,
+      "ratePercent": 31.75
+    },
+    {
+      "municipality": "Ljungby",
+      "rate": 0.3307,
+      "ratePercent": 33.07
+    },
+    {
+      "municipality": "Ljusdal",
+      "rate": 0.3387,
+      "ratePercent": 33.87
+    },
+    {
+      "municipality": "Ljusnarsberg",
+      "rate": 0.338,
+      "ratePercent": 33.8
+    },
+    {
+      "municipality": "Lomma",
+      "rate": 0.3072,
+      "ratePercent": 30.72
+    },
+    {
+      "municipality": "Ludvika",
+      "rate": 0.3405,
+      "ratePercent": 34.05
+    },
+    {
+      "municipality": "Luleå",
+      "rate": 0.3384,
+      "ratePercent": 33.84
+    },
+    {
+      "municipality": "Lund",
+      "rate": 0.3242,
+      "ratePercent": 32.42
+    },
+    {
+      "municipality": "Lycksele",
+      "rate": 0.349,
+      "ratePercent": 34.9
+    },
+    {
+      "municipality": "Lysekil",
+      "rate": 0.3394,
+      "ratePercent": 33.94
+    },
+    {
+      "municipality": "Malmö",
+      "rate": 0.3242,
+      "ratePercent": 32.42
+    },
+    {
+      "municipality": "Malung-Sälen",
+      "rate": 0.3445,
+      "ratePercent": 34.45
+    },
+    {
+      "municipality": "Malå",
+      "rate": 0.352,
+      "ratePercent": 35.2
+    },
+    {
+      "municipality": "Mariestad",
+      "rate": 0.3274,
+      "ratePercent": 32.74
+    },
+    {
+      "municipality": "Mark",
+      "rate": 0.3299,
+      "ratePercent": 32.99
+    },
+    {
+      "municipality": "Markaryd",
+      "rate": 0.3331,
+      "ratePercent": 33.31
+    },
+    {
+      "municipality": "Mellerud",
+      "rate": 0.3408,
+      "ratePercent": 34.08
+    },
+    {
+      "municipality": "Mjölby",
+      "rate": 0.3345,
+      "ratePercent": 33.45
+    },
+    {
+      "municipality": "Mora",
+      "rate": 0.3432,
+      "ratePercent": 34.32
+    },
+    {
+      "municipality": "Motala",
+      "rate": 0.3325,
+      "ratePercent": 33.25
+    },
+    {
+      "municipality": "Mullsjö",
+      "rate": 0.341,
+      "ratePercent": 34.1
+    },
+    {
+      "municipality": "Munkedal",
+      "rate": 0.3486,
+      "ratePercent": 34.86
+    },
+    {
+      "municipality": "Munkfors",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Mölndal",
+      "rate": 0.3199,
+      "ratePercent": 31.99
+    },
+    {
+      "municipality": "Mönsterås",
+      "rate": 0.3407,
+      "ratePercent": 34.07
+    },
+    {
+      "municipality": "Mörbylånga",
+      "rate": 0.3407,
+      "ratePercent": 34.07
+    },
+    {
+      "municipality": "Nacka",
+      "rate": 0.3011,
+      "ratePercent": 30.11
+    },
+    {
+      "municipality": "Nora",
+      "rate": 0.3455,
+      "ratePercent": 34.55
+    },
+    {
+      "municipality": "Norberg",
+      "rate": 0.3354,
+      "ratePercent": 33.54
+    },
+    {
+      "municipality": "Nordanstig",
+      "rate": 0.3402,
+      "ratePercent": 34.02
+    },
+    {
+      "municipality": "Nordmaling",
+      "rate": 0.351,
+      "ratePercent": 35.1
+    },
+    {
+      "municipality": "Norrköping",
+      "rate": 0.333,
+      "ratePercent": 33.3
+    },
+    {
+      "municipality": "Norrtälje",
+      "rate": 0.3205,
+      "ratePercent": 32.05
+    },
+    {
+      "municipality": "Norsjö",
+      "rate": 0.352,
+      "ratePercent": 35.2
+    },
+    {
+      "municipality": "Nybro",
+      "rate": 0.3419,
+      "ratePercent": 34.19
+    },
+    {
+      "municipality": "Nykvarn",
+      "rate": 0.323,
+      "ratePercent": 32.3
+    },
+    {
+      "municipality": "Nyköping",
+      "rate": 0.3225,
+      "ratePercent": 32.25
+    },
+    {
+      "municipality": "Nynäshamn",
+      "rate": 0.3218,
+      "ratePercent": 32.18
+    },
+    {
+      "municipality": "Nässjö",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Ockelbo",
+      "rate": 0.3427,
+      "ratePercent": 34.27
+    },
+    {
+      "municipality": "Olofström",
+      "rate": 0.3375,
+      "ratePercent": 33.75
+    },
+    {
+      "municipality": "Orsa",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Orust",
+      "rate": 0.3369,
+      "ratePercent": 33.69
+    },
+    {
+      "municipality": "Osby",
+      "rate": 0.3399,
+      "ratePercent": 33.99
+    },
+    {
+      "municipality": "Oskarshamn",
+      "rate": 0.3421,
+      "ratePercent": 34.21
+    },
+    {
+      "municipality": "Ovanåker",
+      "rate": 0.3337,
+      "ratePercent": 33.37
+    },
+    {
+      "municipality": "Oxelösund",
+      "rate": 0.3305,
+      "ratePercent": 33.05
+    },
+    {
+      "municipality": "Pajala",
+      "rate": 0.3474,
+      "ratePercent": 34.74
+    },
+    {
+      "municipality": "Partille",
+      "rate": 0.3136,
+      "ratePercent": 31.36
+    },
+    {
+      "municipality": "Perstorp",
+      "rate": 0.3199,
+      "ratePercent": 31.99
+    },
+    {
+      "municipality": "Piteå",
+      "rate": 0.3359,
+      "ratePercent": 33.59
+    },
+    {
+      "municipality": "Ragunda",
+      "rate": 0.3492,
+      "ratePercent": 34.92
+    },
+    {
+      "municipality": "Robertsfors",
+      "rate": 0.35,
+      "ratePercent": 35
+    },
+    {
+      "municipality": "Ronneby",
+      "rate": 0.3368,
+      "ratePercent": 33.68
+    },
+    {
+      "municipality": "Rättvik",
+      "rate": 0.338,
+      "ratePercent": 33.8
+    },
+    {
+      "municipality": "Sala",
+      "rate": 0.3319,
+      "ratePercent": 33.19
+    },
+    {
+      "municipality": "Salem",
+      "rate": 0.32,
+      "ratePercent": 32
+    },
+    {
+      "municipality": "Sandviken",
+      "rate": 0.3312,
+      "ratePercent": 33.12
+    },
+    {
+      "municipality": "Sigtuna",
+      "rate": 0.3183,
+      "ratePercent": 31.83
+    },
+    {
+      "municipality": "Simrishamn",
+      "rate": 0.3169,
+      "ratePercent": 31.69
+    },
+    {
+      "municipality": "Sjöbo",
+      "rate": 0.321,
+      "ratePercent": 32.1
+    },
+    {
+      "municipality": "Skara",
+      "rate": 0.3338,
+      "ratePercent": 33.38
+    },
+    {
+      "municipality": "Skellefteå",
+      "rate": 0.3445,
+      "ratePercent": 34.45
+    },
+    {
+      "municipality": "Skinnskatteberg",
+      "rate": 0.3334,
+      "ratePercent": 33.34
+    },
+    {
+      "municipality": "Skurup",
+      "rate": 0.316,
+      "ratePercent": 31.6
+    },
+    {
+      "municipality": "Skövde",
+      "rate": 0.3309,
+      "ratePercent": 33.09
+    },
+    {
+      "municipality": "Smedjebacken",
+      "rate": 0.3444,
+      "ratePercent": 34.44
+    },
+    {
+      "municipality": "Sollefteå",
+      "rate": 0.3468,
+      "ratePercent": 34.68
+    },
+    {
+      "municipality": "Sollentuna",
+      "rate": 0.3045,
+      "ratePercent": 30.45
+    },
+    {
+      "municipality": "Solna",
+      "rate": 0.297,
+      "ratePercent": 29.7
+    },
+    {
+      "municipality": "Sorsele",
+      "rate": 0.3545,
+      "ratePercent": 35.45
+    },
+    {
+      "municipality": "Sotenäs",
+      "rate": 0.3347,
+      "ratePercent": 33.47
+    },
+    {
+      "municipality": "Staffanstorp",
+      "rate": 0.3012,
+      "ratePercent": 30.12
+    },
+    {
+      "municipality": "Stenungsund",
+      "rate": 0.3312,
+      "ratePercent": 33.12
+    },
+    {
+      "municipality": "Stockholm",
+      "rate": 0.3055,
+      "ratePercent": 30.55
+    },
+    {
+      "municipality": "Storfors",
+      "rate": 0.3498,
+      "ratePercent": 34.98
+    },
+    {
+      "municipality": "Storuman",
+      "rate": 0.3495,
+      "ratePercent": 34.95
+    },
+    {
+      "municipality": "Strängnäs",
+      "rate": 0.325,
+      "ratePercent": 32.5
+    },
+    {
+      "municipality": "Strömstad",
+      "rate": 0.3339,
+      "ratePercent": 33.39
+    },
+    {
+      "municipality": "Strömsund",
+      "rate": 0.3492,
+      "ratePercent": 34.92
+    },
+    {
+      "municipality": "Sundbyberg",
+      "rate": 0.3158,
+      "ratePercent": 31.58
+    },
+    {
+      "municipality": "Sundsvall",
+      "rate": 0.3388,
+      "ratePercent": 33.88
+    },
+    {
+      "municipality": "Sunne",
+      "rate": 0.3375,
+      "ratePercent": 33.75
+    },
+    {
+      "municipality": "Surahammar",
+      "rate": 0.3319,
+      "ratePercent": 33.19
+    },
+    {
+      "municipality": "Svalöv",
+      "rate": 0.3192,
+      "ratePercent": 31.92
+    },
+    {
+      "municipality": "Svedala",
+      "rate": 0.3142,
+      "ratePercent": 31.42
+    },
+    {
+      "municipality": "Svenljunga",
+      "rate": 0.3353,
+      "ratePercent": 33.53
+    },
+    {
+      "municipality": "Säffle",
+      "rate": 0.338,
+      "ratePercent": 33.8
+    },
+    {
+      "municipality": "Säter",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Sävsjö",
+      "rate": 0.3368,
+      "ratePercent": 33.68
+    },
+    {
+      "municipality": "Söderhamn",
+      "rate": 0.3317,
+      "ratePercent": 33.17
+    },
+    {
+      "municipality": "Söderköping",
+      "rate": 0.3353,
+      "ratePercent": 33.53
+    },
+    {
+      "municipality": "Södertälje",
+      "rate": 0.3238,
+      "ratePercent": 32.38
+    },
+    {
+      "municipality": "Sölvesborg",
+      "rate": 0.3386,
+      "ratePercent": 33.86
+    },
+    {
+      "municipality": "Tanum",
+      "rate": 0.3304,
+      "ratePercent": 33.04
+    },
+    {
+      "municipality": "Tibro",
+      "rate": 0.3319,
+      "ratePercent": 33.19
+    },
+    {
+      "municipality": "Tidaholm",
+      "rate": 0.3355,
+      "ratePercent": 33.55
+    },
+    {
+      "municipality": "Tierp",
+      "rate": 0.33,
+      "ratePercent": 33
+    },
+    {
+      "municipality": "Timrå",
+      "rate": 0.3438,
+      "ratePercent": 34.38
+    },
+    {
+      "municipality": "Tingsryd",
+      "rate": 0.34,
+      "ratePercent": 34
+    },
+    {
+      "municipality": "Tjörn",
+      "rate": 0.3319,
+      "ratePercent": 33.19
+    },
+    {
+      "municipality": "Tomelilla",
+      "rate": 0.3179,
+      "ratePercent": 31.79
+    },
+    {
+      "municipality": "Torsby",
+      "rate": 0.343,
+      "ratePercent": 34.3
+    },
+    {
+      "municipality": "Torsås",
+      "rate": 0.3379,
+      "ratePercent": 33.79
+    },
+    {
+      "municipality": "Tranemo",
+      "rate": 0.3298,
+      "ratePercent": 32.98
+    },
+    {
+      "municipality": "Tranås",
+      "rate": 0.3377,
+      "ratePercent": 33.77
+    },
+    {
+      "municipality": "Trelleborg",
+      "rate": 0.3158,
+      "ratePercent": 31.58
+    },
+    {
+      "municipality": "Trollhättan",
+      "rate": 0.3384,
+      "ratePercent": 33.84
+    },
+    {
+      "municipality": "Trosa",
+      "rate": 0.3203,
+      "ratePercent": 32.03
+    },
+    {
+      "municipality": "Tyresö",
+      "rate": 0.3183,
+      "ratePercent": 31.83
+    },
+    {
+      "municipality": "Täby",
+      "rate": 0.2988,
+      "ratePercent": 29.88
+    },
+    {
+      "municipality": "Töreboda",
+      "rate": 0.332,
+      "ratePercent": 33.2
+    },
+    {
+      "municipality": "Uddevalla",
+      "rate": 0.3364,
+      "ratePercent": 33.64
+    },
+    {
+      "municipality": "Ulricehamn",
+      "rate": 0.3253,
+      "ratePercent": 32.53
+    },
+    {
+      "municipality": "Umeå",
+      "rate": 0.3465,
+      "ratePercent": 34.65
+    },
+    {
+      "municipality": "Upplands Väsby",
+      "rate": 0.3175,
+      "ratePercent": 31.75
+    },
+    {
+      "municipality": "Upplands-Bro",
+      "rate": 0.3173,
+      "ratePercent": 31.73
+    },
+    {
+      "municipality": "Uppsala",
+      "rate": 0.3285,
+      "ratePercent": 32.85
+    },
+    {
+      "municipality": "Uppvidinge",
+      "rate": 0.338,
+      "ratePercent": 33.8
+    },
+    {
+      "municipality": "Vadstena",
+      "rate": 0.3435,
+      "ratePercent": 34.35
+    },
+    {
+      "municipality": "Vaggeryd",
+      "rate": 0.3325,
+      "ratePercent": 33.25
+    },
+    {
+      "municipality": "Valdemarsvik",
+      "rate": 0.3403,
+      "ratePercent": 34.03
+    },
+    {
+      "municipality": "Vallentuna",
+      "rate": 0.3123,
+      "ratePercent": 31.23
+    },
+    {
+      "municipality": "Vansbro",
+      "rate": 0.3428,
+      "ratePercent": 34.28
+    },
+    {
+      "municipality": "Vara",
+      "rate": 0.3325,
+      "ratePercent": 33.25
+    },
+    {
+      "municipality": "Varberg",
+      "rate": 0.3173,
+      "ratePercent": 31.73
+    },
+    {
+      "municipality": "Vaxholm",
+      "rate": 0.3163,
+      "ratePercent": 31.63
+    },
+    {
+      "municipality": "Vellinge",
+      "rate": 0.2968,
+      "ratePercent": 29.68
+    },
+    {
+      "municipality": "Vetlanda",
+      "rate": 0.3377,
+      "ratePercent": 33.77
+    },
+    {
+      "municipality": "Vilhelmina",
+      "rate": 0.355,
+      "ratePercent": 35.5
+    },
+    {
+      "municipality": "Vimmerby",
+      "rate": 0.3422,
+      "ratePercent": 34.22
+    },
+    {
+      "municipality": "Vindeln",
+      "rate": 0.352,
+      "ratePercent": 35.2
+    },
+    {
+      "municipality": "Vingåker",
+      "rate": 0.335,
+      "ratePercent": 33.5
+    },
+    {
+      "municipality": "Vårgårda",
+      "rate": 0.3309,
+      "ratePercent": 33.09
+    },
+    {
+      "municipality": "Vänersborg",
+      "rate": 0.3369,
+      "ratePercent": 33.69
+    },
+    {
+      "municipality": "Vännäs",
+      "rate": 0.352,
+      "ratePercent": 35.2
+    },
+    {
+      "municipality": "Värmdö",
+      "rate": 0.3131,
+      "ratePercent": 31.31
+    },
+    {
+      "municipality": "Värnamo",
+      "rate": 0.3328,
+      "ratePercent": 33.28
+    },
+    {
+      "municipality": "Västervik",
+      "rate": 0.3302,
+      "ratePercent": 33.02
+    },
+    {
+      "municipality": "Västerås",
+      "rate": 0.3124,
+      "ratePercent": 31.24
+    },
+    {
+      "municipality": "Växjö",
+      "rate": 0.3219,
+      "ratePercent": 32.19
+    },
+    {
+      "municipality": "Ydre",
+      "rate": 0.341,
+      "ratePercent": 34.1
+    },
+    {
+      "municipality": "Ystad",
+      "rate": 0.3129,
+      "ratePercent": 31.29
+    },
+    {
+      "municipality": "Åmål",
+      "rate": 0.3394,
+      "ratePercent": 33.94
+    },
+    {
+      "municipality": "Ånge",
+      "rate": 0.3462,
+      "ratePercent": 34.62
+    },
+    {
+      "municipality": "Åre",
+      "rate": 0.3392,
+      "ratePercent": 33.92
+    },
+    {
+      "municipality": "Årjäng",
+      "rate": 0.3425,
+      "ratePercent": 34.25
+    },
+    {
+      "municipality": "Åsele",
+      "rate": 0.3545,
+      "ratePercent": 35.45
+    },
+    {
+      "municipality": "Åstorp",
+      "rate": 0.3147,
+      "ratePercent": 31.47
+    },
+    {
+      "municipality": "Åtvidaberg",
+      "rate": 0.3394,
+      "ratePercent": 33.94
+    },
+    {
+      "municipality": "Älmhult",
+      "rate": 0.3386,
+      "ratePercent": 33.86
+    },
+    {
+      "municipality": "Älvdalen",
+      "rate": 0.3477,
+      "ratePercent": 34.77
+    },
+    {
+      "municipality": "Älvkarleby",
+      "rate": 0.344,
+      "ratePercent": 34.4
+    },
+    {
+      "municipality": "Älvsbyn",
+      "rate": 0.3379,
+      "ratePercent": 33.79
+    },
+    {
+      "municipality": "Ängelholm",
+      "rate": 0.3135,
+      "ratePercent": 31.35
+    },
+    {
+      "municipality": "Öckerö",
+      "rate": 0.3304,
+      "ratePercent": 33.04
+    },
+    {
+      "municipality": "Ödeshög",
+      "rate": 0.3395,
+      "ratePercent": 33.95
+    },
+    {
+      "municipality": "Örebro",
+      "rate": 0.3365,
+      "ratePercent": 33.65
+    },
+    {
+      "municipality": "Örkelljunga",
+      "rate": 0.3024,
+      "ratePercent": 30.24
+    },
+    {
+      "municipality": "Örnsköldsvik",
+      "rate": 0.3385,
+      "ratePercent": 33.85
+    },
+    {
+      "municipality": "Östersund",
+      "rate": 0.3372,
+      "ratePercent": 33.72
+    },
+    {
+      "municipality": "Österåker",
+      "rate": 0.2893,
+      "ratePercent": 28.93
+    },
+    {
+      "municipality": "Östhammar",
+      "rate": 0.333,
+      "ratePercent": 33.3
+    },
+    {
+      "municipality": "Östra Göinge",
+      "rate": 0.3217,
+      "ratePercent": 32.17
+    },
+    {
+      "municipality": "Överkalix",
+      "rate": 0.3414,
+      "ratePercent": 34.14
+    },
+    {
+      "municipality": "Övertorneå",
+      "rate": 0.3384,
+      "ratePercent": 33.84
+    }
+  ]
+}
